@@ -35,4 +35,4 @@ The circuit was tested for battery voltages ranging from approximately 8.5 V to 
 
 ## Course
 
-ELP-101 Project
+ELP101 Project
